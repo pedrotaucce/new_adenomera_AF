@@ -13,7 +13,7 @@ In the files 'BI_matrix.nex',  'BI_tree.tre', and 'mrbayes_stdout.txt' you will 
 
 In the files 'POMC_phased_out.fasta' and 'RAG_phased_out.fasta' you will find the output matriced from phasing algorithm used in haplotype natworks building.
 
-## Command line arguments for each of the software
+## Command line arguments for each software
 ### MAFFT
 #### Coding gene fragments
 `
