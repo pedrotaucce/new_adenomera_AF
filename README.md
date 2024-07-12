@@ -1,5 +1,5 @@
 # new_adenomera_AF
-Scripts, alignments, and software information about the paper: "Unexplored Urban Diversity: A New Species of Adenomera (Anura, Leptodactylidae) Related to A. ajurauna from the Atlantic Forest of Southeastern and Southern Brazil", by Cassini et al. **The manuscript is currently under review.**
+Scripts, alignments, and software information about the paper: "Unexplored Urban Diversity: A New Species of Adenomera (Anura, Leptodactylidae) Related to A. ajurauna from the Atlantic Forest of Southeastern and Southern Brazil", by Cassini et al. **The manuscript is currently accepted for publication at Herpetologica.**
 
 In the script 'genetic_distances.R' you will find the script used to build the genetic distances table (Table 3), and files 'distance_coi.fas' and 'distance_16S.fas' are the input matrices.
 
