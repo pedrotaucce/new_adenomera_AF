@@ -1,5 +1,5 @@
 # new_adenomera_AF
-Scripts, alignments, and software information about the paper: "Unexplored Urban Diversity: A New Species of Adenomera (Anura, Leptodactylidae) Related to A. ajurauna from the Atlantic Forest of Southeastern and Southern Brazil", by Cassini et al. **The manuscript is currently accepted for publication at Herpetologica.**
+Scripts, alignments, and software information about the paper: ["Unexplored Urban Diversity: A New Species of Adenomera (Anura, Leptodactylidae) Related to A. ajurauna from the Atlantic Forest of Southeastern and Southern Brazil"](https://doi.org/10.1655/Herpetologica-D-22-00022), by Cassini et al. (2024).
 
 In the script 'genetic_distances.R' you will find the script used to build the genetic distances table (Table 3), and files 'distance_coi.fas' and 'distance_16S.fas' are the input matrices.
 
@@ -44,3 +44,7 @@ raxml-ng-mpi --msa matrix.fasta --model GTR+G --prefix pomc --threads 10 --seed 
 ### MrBayes
 
 MrBayes arguments are in the file 'BI_matrix.nex'
+
+### Paper citation
+
+Carla S. Cassini, Thiago R. Carvalho, Pedro P. G. Taucce, Célio F. B. Haddad, Mirco Solé; Unexplored Urban Diversity: A New Species of _Adenomera_ (Anura, Leptodactylidae) Related to _Adenomera ajurauna_ from the Atlantic Forest of Southeastern and Southern Brazil. Herpetologica 80. doi: https://doi.org/10.1655/Herpetologica-D-22-00022
